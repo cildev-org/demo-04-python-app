@@ -1,0 +1,2 @@
+# Lab app of the dependency scenarios (CVE-2024-23334). One direct dependency.
+aiohttp==3.8.5
